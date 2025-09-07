@@ -5,7 +5,7 @@ The *Robot Ethical Constitution* is a foundational set of principles to govern t
 ## Structure
 
 - **Articles 1–13** (`chapters/Article1.md` through `Article13.md`): Core provisions of the Constitution. Each article addresses a key aspect of robot ethics, such as human safety, privacy, fairness, and accountability.  
-- **Annexes A–D** (`annexes/AnnexA.md` through `AnnexD.md`): Supplementary sections including definitions of terms, governance and oversight mechanisms, technical implementation notes, and procedures for amendment.  
+- **Annexes A–D** (`annexes/AnnexA.md` through `annexes/AnnexD.md`): Supplementary sections including definitions of terms, governance and oversight mechanisms, technical implementation notes, and procedures for amendment.  
 - **LICENSE**: Open-source license for the Constitution text.  
 - **CONTRIBUTING.md**: Guidelines for contributors (how to propose amendments, submit feedback, and engage respectfully).  
 - **config.yaml** (optional): Metadata and schema information for digital integration.
@@ -33,4 +33,4 @@ The *Robot Ethical Constitution* is a foundational set of principles to govern t
 - [Annex C: Implementation Guidelines](annexes/AnnexC.md)  
 - [Annex D: Amendment Procedure](annexes/AnnexD.md)  
 
-The Constitution is released under an open-content license and is intended to be a living document. Contributors and robotics stakeholders are encouraged to review all provisions and participate in its evolution through constructive feedback and proposals.
+The Constitution is released under an open-content license by **Loopminds** and is intended to be a living document. Contributors and robotics stakeholders are encouraged to review all provisions and participate in its evolution through constructive feedback and proposals.
