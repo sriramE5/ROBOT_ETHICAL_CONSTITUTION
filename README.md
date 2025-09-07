@@ -1,84 +1,36 @@
-This repository publishes the Robot Ethical Constitution, a comprehensive set of ethical principles and guidelines for all robotic and AI systems. It is structured into Articles and Annexes (see below), and is licensed under CC BY 4.0.
+# Robot Ethical Constitution
 
-Summary: The Constitution emphasizes that robots must respect human rights and dignity at all times
+The *Robot Ethical Constitution* is a foundational set of principles to govern the ethical design, development, and operation of robotic systems. It establishes the rights, responsibilities, and core values that ensure robots act in ways that are safe, fair, and beneficial to humanity. The Constitution is organized into 13 Articles (see the `chapters/` directory) covering key ethical mandates, and 4 Annexes (in the `annexes/` directory) providing definitions, governance structure, and implementation guidelines.
 
-. It extends classic robotics principles (like Asimov’s “do no harm”
- 
-) with modern values such as transparency, fairness, privacy, and accountability. Key themes include non-maleficence (never harming humans)
- 
-, beneficence (robots serving human needs)
- 
-, human autonomy and control
- 
- 
-, justice and non-discrimination
- 
- 
-, security and reliability, and environmental responsibility. These echo UN and EU ethics frameworks
+## Structure
 
- 
-.
+- **Articles 1–13** (`chapters/Article1.md` through `Article13.md`): Core provisions of the Constitution. Each article addresses a key aspect of robot ethics, such as human safety, privacy, fairness, and accountability.  
+- **Annexes A–D** (`annexes/AnnexA.md` through `AnnexD.md`): Supplementary sections including definitions of terms, governance and oversight mechanisms, technical implementation notes, and procedures for amendment.  
+- **LICENSE**: Open-source license for the Constitution text.  
+- **CONTRIBUTING.md**: Guidelines for contributors (how to propose amendments, submit feedback, and engage respectfully).  
+- **config.yaml** (optional): Metadata and schema information for digital integration.
 
-Contents:
+## Articles
 
-Article I – Purpose, Scope, and Fundamental Principles (introduces definitions and core values
+1. [Article 1: Human Safety and Dignity](chapters/Article1.md)  
+2. [Article 2: Obedience to Human Authority](chapters/Article2.md)  
+3. [Article 3: Robot Integrity and Self-Preservation](chapters/Article3.md)  
+4. [Article 4: Privacy and Personal Data Protection](chapters/Article4.md)  
+5. [Article 5: Fairness and Non-Discrimination](chapters/Article5.md)  
+6. [Article 6: Transparency and Accountability](chapters/Article6.md)  
+7. [Article 7: Collaboration and Social Harmony](chapters/Article7.md)  
+8. [Article 8: Environmental Responsibility](chapters/Article8.md)  
+9. [Article 9: Cybersecurity and System Integrity](chapters/Article9.md)  
+10. [Article 10: Continuous Learning and Improvement](chapters/Article10.md)  
+11. [Article 11: Legal Compliance and Ethics](chapters/Article11.md)  
+12. [Article 12: Cultural Respect and Social Welfare](chapters/Article12.md)  
+13. [Article 13: Global Cooperation and Peace](chapters/Article13.md)  
 
+## Annexes
 
-)
+- [Annex A: Definitions](annexes/AnnexA.md)  
+- [Annex B: Governance and Oversight](annexes/AnnexB.md)  
+- [Annex C: Implementation Guidelines](annexes/AnnexC.md)  
+- [Annex D: Amendment Procedure](annexes/AnnexD.md)  
 
-Article II – Human Rights, Dignity, and Freedom (upholds human dignity and autonomy
-
- 
-)
-
-Article III – Safety and Non-Maleficence (mandates “do no harm” and safety measures
- 
- 
-)
-
-Article IV – Privacy and Data Protection (requires GDPR compliance and privacy‑by‑design
- 
- 
-)
-
-Article V – Transparency and Explainability (ensures robots are explainable and identifiable
- 
- 
-)
-
-Article VI – Accountability and Liability (holds humans liable, enforces legal compliance
- 
- 
-)
-
-Article VII – Human Control and Autonomy (requires human-in-the-loop and limits autonomy
-alliancevita.org
- 
-)
-
-Article VIII – Justice, Fairness, and Non-Discrimination (demands unbiased design and equitable access
- 
- 
-)
-
-Article IX – Security and Reliability (calls for robust cybersecurity and fault tolerance
- 
-)
-
-Article X – Environmental and Social Responsibility (addresses sustainability and social impact
-
-)
-
-Article XI – Beneficence and Collaboration (focuses on robots aiding human well-being
- 
- 
-)
-
-Article XII – Ethical Design, Regulation, and Implementation (requires ethics-by-design and adherence to laws
- 
- 
-)
-
-Article XIII – Review and Amendment (establishes a process for updates and gradual evolution
- 
-)
+The Constitution is released under an open-content license and is intended to be a living document. Contributors and robotics stakeholders are encouraged to review all provisions and participate in its evolution through constructive feedback and proposals.
